@@ -1,6 +1,6 @@
 # p4-css
 
-New project...
+[`nano-css`](https://github.com/streamich/nano-css) configuration for P4.
 
 
 
