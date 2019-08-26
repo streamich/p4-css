@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/streamich/p4-css/compare/v1.1.0...v1.2.0) (2019-08-26)
+
+
+### Features
+
+* 🎸 add fadeInScale animation ([8933e7e](https://github.com/streamich/p4-css/commit/8933e7e))
+
 # [1.1.0](https://github.com/streamich/p4-css/compare/v1.0.0...v1.1.0) (2019-03-03)
 
 
