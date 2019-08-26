@@ -14,6 +14,7 @@ import {addon as addonDecorator} from 'nano-css/addon/decorator';
 import {addon as addonKeyframes} from 'nano-css/addon/keyframes';
 import {addon as addonAnimateFadeIn} from 'nano-css/addon/animate/fadeIn';
 import {addon as addonAnimateFadeInDown} from 'nano-css/addon/animate/fadeInDown';
+import {addon as addonAnimateFadeInScale} from 'nano-css/addon/animate/fadeInScale';
 import {addon as addonReset} from 'nano-css/addon/reset/Normalize';
 import {addon as addonResetFont} from 'nano-css/addon/reset-font';
 import {addon as addonGoogleFont} from 'nano-css/addon/googleFont';
@@ -37,6 +38,7 @@ addonDecorator(nano);
 addonKeyframes(nano);
 addonAnimateFadeIn(nano);
 addonAnimateFadeInDown(nano);
+addonAnimateFadeInScale(nano);
 addonGoogleFont(nano);
 
 export const globalCss = () => {
