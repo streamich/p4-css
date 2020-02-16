@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/streamich/p4-css/compare/v1.2.0...v1.3.0) (2020-02-16)
+
+
+### Features
+
+* 🎸 expose TypeScript declarations ([8d4f583](https://github.com/streamich/p4-css/commit/8d4f583))
+
 # [1.2.0](https://github.com/streamich/p4-css/compare/v1.1.0...v1.2.0) (2019-08-26)
 
 
