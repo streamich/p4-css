@@ -19,6 +19,8 @@ import {addon as addonReset} from 'nano-css/addon/reset/Normalize';
 import {addon as addonResetFont} from 'nano-css/addon/reset-font';
 import {addon as addonGoogleFont} from 'nano-css/addon/googleFont';
 
+export * from 'nano-css';
+
 const nano = create({
   pfx: 'p4-',
   h: createElement,
