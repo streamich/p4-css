@@ -1,3 +1,10 @@
+# [1.4.0](https://github.com/streamich/p4-css/compare/v1.3.0...v1.4.0) (2020-02-17)
+
+
+### Features
+
+* 🎸 re-export everything from nano-css ([61e94f8](https://github.com/streamich/p4-css/commit/61e94f8))
+
 # [1.3.0](https://github.com/streamich/p4-css/compare/v1.2.0...v1.3.0) (2020-02-16)
 
 
