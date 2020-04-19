@@ -48,7 +48,13 @@ export const globalCss = () => {
   addonResetFont(nano);
 };
 
-const {put, rule, drule, sheet, keyframes, css} = nano;
+export const put = nano.put;
+export const rule = nano.rule!;
+export const drule = nano.drule!;
+export const sheet = nano.sheet!;
+export const keyframes = nano.keyframes!;
+export const css = nano.css!;
+
 const {dsheet, useStyles, jsx, googleFont} = nano as any;
 
-export {nano, put, rule, drule, sheet, dsheet, keyframes, useStyles, jsx, css, googleFont};
+export {nano, dsheet, useStyles, jsx, googleFont};
